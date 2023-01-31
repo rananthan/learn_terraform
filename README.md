@@ -1,2 +1,2 @@
 # learn_terraform
-Terraform Scripts
+Terraform Scripts learning using VCS 
