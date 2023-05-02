@@ -1,3 +1,3 @@
 # learn_terraform
-Terraform Scripts learning using VCS 
-More Testing of the branches in Git
+
+Terraform Scripts learning using VCS method for managing workspace
